@@ -72,10 +72,19 @@ The goal is to identify why customers stop purchasing, detect high-risk customer
 ## 📂 Project Structure
 
 ```
-UPI-Transactions-Data-Analysis/
-│── README.md
-│── PowerBI_Dashboard.pbix
-│── Images/ (Dashboard Screenshots)
+E-Commerce Customer Churn Analysis Project
+│
+├── Dataset
+│   └── Cleaned E Commerce.csv        # Cleaned dataset used for analysis
+│
+├── Data Dictionary
+│   └── E Commerce Dataset Dictionary.xlsx   # Definitions and details of dataset columns
+│
+├── Dashboard
+│   └── E-Commerce Customer Churn Analysis.pbix  # Power BI dashboard file
+│
+└── Documentation
+    └── README.md                     # Project overview, steps, and key insights
 ```
 
 ---
